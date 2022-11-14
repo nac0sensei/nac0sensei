@@ -70,7 +70,9 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
 
 
 
-<h1> Nos réseaux </h1>
+<h1> Mon plus grand kiff </h1>
+<p> ・ 🙃 j'ai postuler pour le moderator academy exam : je croise les doigts pour être accepter (réponse avant le 31 décembre)
+  </p>
 
 <a href="https://discord.gg/soon"><img width="80%" src="https://cdn.discordapp.com/attachments/1041007186324750387/1041820526445854751/611add32e78d0ab99248cb85_0_0_jPRiC20kL0bhaU.jpg"></a>
 
