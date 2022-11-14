@@ -56,16 +56,16 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
 
 ```mermaid 
     graph TD;
-    Se réveiller-->manger;
+    réveil-->manger;
     manger-->cours;
     cours-->Muscu;
     Muscu-->coder;
-    coder-->création de projet;
-    création de projet-->Manger;
+    coder-->projet;
+    projet-->Manger;
     Manger-->Coder;
     Coder-->Netflix;
     Netflix-->Dormir;
-    Dormir-->Se réveiller;
+    Dormir-->réveil;
 ```
 
 
