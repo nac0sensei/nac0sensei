@@ -1,7 +1,7 @@
 <h1>nac0 | Ugo  </h1>
 
 <p> Mon prénom est Ugo et j'ai 17 ans. 🙃 <br> 
-Je suis responsable et Développeur depuis maintenant 4 ans. et demie 🪂 <br> 
+Je suis compétant dans le management depuis maintenant 4 ans. et demie 🪂 <br> 
 Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
 
                                       _____                    _____                    _____                   _______         
