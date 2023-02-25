@@ -1,7 +1,7 @@
 <h1>nac0 | Ugo  </h1>
 
 <p> Mon prénom est Ugo et j'ai 17 ans. 🙃 <br> 
-Je travaille comme responsable community et developers sur le serveur SINIXDEV depuis maintenant 1 ans. et demi🪂 <br> 
+Je suis responsable et Développeur depuis maintenant 4 ans. et demie 🪂 <br> 
 Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
 
                                       _____                    _____                    _____                   _______         
@@ -37,7 +37,7 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
     ・ 🌱 J'apprends chaque jour de nouvelles choses ... <br>
     ・ 👯 J'aide les gens au quotidien ... <br> 
     ・ 📂 Mon portefolio s'agrandit de jour en jour ... <br>
-    ・ 💎 Pour me joindre : nacopirard@gmail.com ... <br>
+    ・ 💎 Pour me joindre : nacopirard1@gmail.com ... <br>
   </p>
   
  <h1> Activité récente sur Github </h1>
@@ -71,22 +71,27 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
 
 
 <h1> Mon plus grand kiff </h1>
-<p> ・ 🙃 j'ai postuler pour le moderator academy exam : je croise les doigts pour être accepter (réponse avant le 31 décembre)
+<p> ・ 🙃 j'ai postuler pour le moderator academy exam : je croise les doigts pour être accepter (réponse avant le 01 Avril)
   </p>
 
 <a href="https://discord.gg/soon"><img width="80%" src="https://cdn.discordapp.com/attachments/1041007186324750387/1041820526445854751/611add32e78d0ab99248cb85_0_0_jPRiC20kL0bhaU.jpg"></a>
 
-    🧪 | discord.gg/soon
+<h1> Mes futures projets 🤞🏻 </h1>
+    
 <br> 
 
-    🔭 | https://www.youtube.com/channel/UCC-t40pbAhyoXQRoRlczKXg
+    🧪 Staff | discord.gg/OneCube
 
 <br> 
 
-    🗞️ | https://www.tiktok.com/@sinixdevofficiel 
+    🔭 Modérateur | discord.gg/inoxtag
+
+<br> 
+
+    🗞️ Modérateur | discord.gg/michoufr
 <br>
 
-    🤖 | https://discord.gg/rHBztbN7tn
+    🤖 Faire partie de l'équipe | discord.gg/Unosial
     
 <h1> Statistiques GitHub </h1>
 <br>
