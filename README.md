@@ -15,7 +15,7 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
   
  <h1> Activité récente sur Github </h1>
  
-<p> ・ very soon
+<p> ・ j'ai rejoins l'équipe atlantique en tant que déveloper FiveM
     ・ very soon
     ・ very soon
     ・ very soon
