@@ -48,7 +48,7 @@ Je suis Développeur depuis maintenant plus de 3 ans ! 🔥</p>
   </p>
 
 <a href="[https://discord.gg/soon](https://www.kiwanis-arlon.be/)"><img width="80%" 
-src="https://cdn.discordapp.com/attachments/1079399840854855762/1092504251982418030/image.png"></a>
+src=""></a>
 
 <h1> Mes futures projets 🤞🏻 </h1>
     
