@@ -1,166 +1,220 @@
-# 👋 Salut, moi c'est Ugo — aka `nac0`
+<div align="center">
 
-<p align="center">
-  <strong>Développeur • FiveM • Java • Python • Unity</strong><br>
-  J'aime apprendre, créer des projets et transformer des idées en code.
-</p>
+# 👋 Hey, moi c'est Ugo
+
+### `nac0`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%C3%89tudiant+en+d%C3%A9veloppement+%F0%9F%92%BB;Java+%7C+Python+%7C+FiveM;Toujours+en+train+d'apprendre+%F0%9F%9A%80;Code.+Learn.+Improve.+Repeat." />
+
+</div>
 
 ---
 
 ## 🧑‍💻 À propos de moi
 
-* 🎂 J'ai **19 ans**
-* 💻 Passionné par le **développement** et l'informatique
-* 🎮 Je développe notamment autour de **FiveM / GTA RP**
-* ☕ J'apprends actuellement **Java**
-* 🐍 Je développe également mes compétences en **Python**
-* 🎮 Je travaille sur différents projets avec **Unity**
-* 🧠 J'aime comprendre comment les choses fonctionnent plutôt que simplement copier du code
-* 📈 Mon objectif : progresser chaque jour et construire des projets de plus en plus complets
-* 📩 Contact : **[nacopirard1@gmail.com](mailto:nacopirard1@gmail.com)**
+```java
+public class Ugo {
+
+    String username = "nac0";
+    String school = "HERS Libramont";
+    String option = "Développement";
+
+    String[] interests = {
+        "Java",
+        "Python",
+        "FiveM",
+        "Backend",
+        "Gaming"
+    };
+
+    boolean learning = true;
+}
+```
+
+🎓 Étudiant à la **HERS de Libramont** en option **Développement**
+💻 Passionné par la programmation et l'informatique
+🎮 Intéressé par le développement **FiveM**
+📚 J'apprends et je progresse chaque jour
+🚀 Toujours à la recherche de nouveaux projets à développer
 
 ---
 
-## 🚀 Ce que je fais actuellement
+## ⚡ Technologies
 
-```text
-🎮 Développement FiveM
-☕ Apprentissage de Java
-🐍 Développement Python
-🕹️ Projets Unity
-🌐 Développement de projets personnels
-📚 Apprentissage continu
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,lua,html,css,git,github,vscode,mysql&perline=9" />
+
+</div>
+
+---
+
+## 💻 Actuellement
+
+```python
+ugo = {
+    "school": "HERS Libramont",
+    "formation": "Développement",
+    "learning": [
+        "Java",
+        "Python",
+        "Git",
+        "SQL"
+    ],
+    "projects": [
+        "FiveM",
+        "Projets personnels"
+    ]
+}
+
+while True:
+    learn()
+    code()
+    improve()
 ```
 
 ---
 
-## 🛠️ Technologies & outils
+## 🚀 Mes projets
 
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
-</p>
+```text
+📂 Projects
+│
+├── 🎮 FiveM
+│   ├── Scripts
+│   ├── Serveurs
+│   ├── Systèmes RP
+│   └── Base de données
+│
+├── ☕ Java
+│   ├── Exercices
+│   ├── POO
+│   └── Projets scolaires
+│
+├── 🐍 Python
+│   ├── Automatisation
+│   ├── Exercices
+│   └── Petits projets
+│
+└── 🧪 Lab
+    └── Expérimentations & nouvelles technologies
+```
 
 ---
 
-## 🎯 Mes projets
+## 📊 GitHub Stats
 
-### 🎮 FiveM
+<div align="center">
 
-Je travaille sur différents projets liés à **FiveM**, notamment :
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nac0sensei&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-* développement de scripts
-* création et configuration de serveurs
-* systèmes RP
-* interfaces personnalisées
-* création de personnages
-* véhicules et fonctionnalités serveur
-* bases de données et intégration de ressources
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nac0sensei&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 🕹️ Unity
+</div>
 
-Je développe également des projets sous **Unity**, avec notamment :
+---
 
-* déplacements du personnage
-* système de stamina
-* accroupissement
-* gestion de caméra
-* sons de déplacement
-* interactions et mécaniques de gameplay
+## 🔥 Activité
 
-### 💻 Programmation
+<div align="center">
 
-Je continue actuellement à développer mes connaissances en :
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nac0sensei&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nac0sensei&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nac0sensei/nac0sensei/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🧠 Petit bout de code
 
 ```java
-public class Ugo {
-    public static void main(String[] args) {
-        String developer = "nac0";
-        boolean learning = true;
+public class Developer {
 
-        while (learning) {
-            System.out.println("Learn. Code. Improve. Repeat.");
+    public static void main(String[] args) {
+
+        boolean success = false;
+        int experience = 0;
+
+        while (!success) {
+            learn();
+            code();
+            fail();
+            understand();
+
+            experience++;
+
+            if (experience > 1000000) {
+                success = true;
+            }
         }
     }
+
+    static void learn() {}
+    static void code() {}
+    static void fail() {}
+    static void understand() {}
 }
 ```
 
 ---
 
-## 📊 Statistiques GitHub
+## ❤️ Autres projets
 
-<p align="center">
+En dehors du développement, j'ai également participé à différents projets et événements, notamment autour de **Brickx LEGO® Arlon**.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nac0sensei&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nac0sensei&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔄 Mon quotidien
-
-```mermaid
-graph LR
-    A[☀️ Réveil] --> B[🍳 Manger]
-    B --> C[📚 Cours]
-    C --> D[🏋️ Muscu]
-    D --> E[💻 Coder]
-    E --> F[🚀 Projets]
-    F --> G[🍕 Manger]
-    G --> H[💻 Encore coder]
-    H --> I[🎬 Netflix / Gaming]
-    I --> J[😴 Dormir]
-    J --> A
+```text
+Creativity + Code + Projects + Community
+                 ↓
+               nac0
 ```
 
 ---
 
-## ❤️ Un projet qui me tient à cœur
+## 📬 Contact
 
-J'ai également eu l'occasion de participer et d'aider autour de projets caritatifs et événementiels, notamment **l'exposition Brickx LEGO® Arlon**.
-
-Un projet mêlant :
-
-🧱 LEGO • 🤝 Solidarité • 🎨 Créativité • 👨‍👩‍👧‍👦 Famille • ❤️ Caritatif
-
----
-
-## 🎯 Mes objectifs
-
-* 🚀 Développer des projets plus ambitieux
-* 🎮 Continuer à progresser dans le développement FiveM
-* ☕ Approfondir Java
-* 🐍 Maîtriser davantage Python
-* 🕹️ Créer des jeux et systèmes plus poussés avec Unity
-* 🌐 Construire mon portfolio
-* 🧠 Découvrir de nouvelles technologies
-* 🤝 Collaborer avec d'autres développeurs
-
----
-
-## 📫 Me contacter
-
-<p align="center">
+<div align="center">
 
 ### `nac0`
 
 📧 **[nacopirard1@gmail.com](mailto:nacopirard1@gmail.com)**
 
-💻 **GitHub :** [@nac0sensei](https://github.com/nac0sensei)
+[![GitHub](https://img.shields.io/badge/GitHub-nac0sensei-181717?style=for-the-badge\&logo=github)](https://github.com/nac0sensei)
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>« Learn • Build • Improve • Repeat »</i>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nac0sensei&label=PROFILE+VIEWS&style=for-the-badge" />
+
+<br><br>
+
+```text
+> Code.
+> Learn.
+> Break things.
+> Fix them.
+> Repeat.
+```
+
+</div>
